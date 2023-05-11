@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @F1kachi
-- 👀 I’m interested in Russification
+- 👀 I’m interested in Ru localization
 - 🌱 I’m currently learning С++
 - 💞️ I’m looking to collaborate with creators of mods and games
 - 📫 How to reach me: TG-@F1kachi, VK-@A1sferal, Discord- F1kachi#4547.
